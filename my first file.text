@@ -1,9 +1,8 @@
 this is some text in my text file.
 
 git config --global user.name="kifyat"
-git config --global user.email="shahgkpk24@gmail.com
-
+git config --global user.email="shahgkpk24@gmail.com"
 
 git add *
-git commit -m = "i have created text file"
+git commit -m "i have created text file"
 git push
